@@ -1,0 +1,12 @@
+https://staticmapmaker.com/yandex/
+
+https://static-maps.yandex.ru/1.x/?lang=tr-TR&ll=28.6457,40.1083&z=14&l=map,sat,skl,trf&size=650,450&pt=28.6457,40.1083,flag
+
+
+https://static-maps.yandex.ru/1.x/?lang=tr-TR&ll=38.8913,38.3035&z=14&l=map,sat,skl,trf&size=650,450&pt=38.8913,38.3035,flag
+
+
+
+flag
+vkbkm
+vkgrm
